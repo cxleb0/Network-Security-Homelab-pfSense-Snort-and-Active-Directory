@@ -1,5 +1,6 @@
 # Network-Security-Homelab-pfSense-Snort-and-Active-Directory
 This lab simulates a secure network environment using pfSense for firewall and routing, Snort for intrusion detection, and a Windows Server domain to manage devices. It provides hands-on experience with network security monitoring, traffic filtering, and domain administration.
+![NetworkSecurityDiagram](https://github.com/user-attachments/assets/9fc9ff9d-6de2-488f-bf82-f1e3566e29e3)
 
 This whole project was done on my laptop with Virtual box.
 Refer to my documentation for for my official document for this project, I will just be reiterating here with some screenshots from my project.
